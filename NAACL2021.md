@@ -17,7 +17,7 @@
     - [3. A Frustratingly Easy Approach for Entity and Relation Extraction](#3-a-frustratingly-easy-approach-for-entity-and-relation-extraction)
     - [4. Distantly Supervised Relation Extraction with Sentence Reconstruction and Knowledge Base Priors](#4-distantly-supervised-relation-extraction-with-sentence-reconstruction-and-knowledge-base-priors)
     - [5. Are we there yet? Exploring clinical domain knowledge of BERT models](#5-are-we-there-yet-exploring-clinical-domain-knowledge-of-bert-models)
-  - [三、NER](#三ner)
+  - [三、命名实体识别](#三命名实体识别)
     - [1. Noisy-Labeled NER with Confidence Estimation](#1-noisy-labeled-ner-with-confidence-estimation)
     - [2. COVID-19 named entity recognition for Vietnamese](#2-covid-19-named-entity-recognition-for-vietnamese)
     - [3. Multi-Grained Knowledge Distillation for Named Entity Recognition](#3-multi-grained-knowledge-distillation-for-named-entity-recognition)
@@ -220,7 +220,7 @@ We explore whether state-of-the-art BERT models encode sufficient domain knowled
 
 [[paper]](https://aclanthology.org/2021.bionlp-1.5/)
 
-## 三、NER
+## 三、命名实体识别
 ### 1. Noisy-Labeled NER with Confidence Estimation
 Kun Liu1∗, Yao Fu2∗, Chuanqi Tan1†, Mosha Chen1, Ningyu Zhang3, Songfang Huang1, Sheng Gao4
 
